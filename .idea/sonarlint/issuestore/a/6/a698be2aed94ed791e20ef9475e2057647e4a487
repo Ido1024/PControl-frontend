@@ -1,0 +1,45 @@
+
+g	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(°¶ä«ıÿÿÿÿ8ÑşË…Š1
+W
+java:S11415"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÒşË…Š1
+Š
+java:S1488m"hImmediately return this expression instead of assigning it to the temporary variable "encryptedMessage".(ç™âÈıÿÿÿÿ8ÓşË…Š1
+~
+java:S1104"aMake messageToSendToServer a static final constant or non-public and provide accessors if needed.(­‰Óƒ8ÓşË…Š1
+r
+java:S1104!"UMake server_ip a static final constant or non-public and provide accessors if needed.(ŞÀëƒ8ÓşË…Š1
+s
+java:S1104""VMake serverPort a static final constant or non-public and provide accessors if needed.(½öª®8ÓşË…Š1
+X
+java:S1444";Make this "public static messageToSendToServer" field final(­‰Óƒ8ÓşË…Š1
+L
+java:S1444!"/Make this "public static server_ip" field final(ŞÀëƒ8ÓşË…Š1
+M
+java:S1444""0Make this "public static serverPort" field final(½öª®8ÓşË…Š1
+q
+java:S3008!"TRename this field "server_ip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÀëƒ8…‚Ì…Š1
+„
+java:S1450 "gRemove the "encryptedMessageToServer" field and declare it as a local variable in the relevant methods.(´ú…ı8Š‚Ì…Š1
+M
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(ÄÓ h8‚Ì…Š1
+R
+java:S2696;"6Make the enclosing method "static" or remove this set.(ĞË»C8¤‚Ì…Š1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(î£»‘8¤‚Ì…Š1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Ò’ç³8¤‚Ì…Š1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(Àºûÿÿÿÿ8¥‚Ì…Š1
+S
+java:S2696A"6Make the enclosing method "static" or remove this set.(ƒ”´¢8¥‚Ì…Š1
+S
+java:S2696E"6Make the enclosing method "static" or remove this set.(ëø£¾8¥‚Ì…Š1
+X
+java:S2696F"6Make the enclosing method "static" or remove this set.(àò®ãşÿÿÿÿ8¥‚Ì…Š1
+X
+java:S2696L"6Make the enclosing method "static" or remove this set.(Åô¶‡øÿÿÿÿ8¦‚Ì…Š1
+L
+java:S2093-"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8§‚Ì…Š1
+l
+java:S1874c"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(éè‹¿úÿÿÿÿ8§‚Ì…Š1
+W
+java:S1874d"5Remove this use of "onPostExecute"; it is deprecated.(›øÖØøÿÿÿÿ8¨‚Ì…Š1
+9
+java:S5542s"Use a secure padding scheme.(ü§™8©‚Ì…Š1

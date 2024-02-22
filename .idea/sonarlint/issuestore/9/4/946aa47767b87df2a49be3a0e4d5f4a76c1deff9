@@ -1,0 +1,17 @@
+
+r
+java:S1104"\Make isFingerOnScreen a static final constant or non-public and provide accessors if needed.(¨õÐì
+n
+java:S1104"XMake touchPointX0 a static final constant or non-public and provide accessors if needed.(ÌôÿÜ
+s
+java:S1104"XMake touchPointY0 a static final constant or non-public and provide accessors if needed.(â°èðøÿÿÿÿ
+s
+java:S1104"XMake touchPointX1 a static final constant or non-public and provide accessors if needed.(È™ýÑúÿÿÿÿ
+s
+java:S1104"XMake touchPointY1 a static final constant or non-public and provide accessors if needed.(¶£Æöÿÿÿÿÿ
+v
+java:S1104"`Make isTwoFingersOnScreen a static final constant or non-public and provide accessors if needed.(¿„®´
+u
+java:S1104"_Make numOfFingerOnScreen a static final constant or non-public and provide accessors if needed.(ÇÒåÇ
+H
+java:S1135"2Complete the task associated to this TODO comment.(È·óï

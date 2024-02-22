@@ -1,0 +1,65 @@
+
+i
+java:S1192"LDefine a constant instead of duplicating this literal "wrong value" 4 times.(õßÓâ8‹©í„Š1
+y
+java:S1104"\Make portMessageInput a static final constant or non-public and provide accessors if needed.(Ì¶ØÑ8Œ©í„Š1
+v
+java:S1104"ZMake ipMessageInput a static final constant or non-public and provide accessors if needed.(ô™Ú28Œ©í„Š1
+S
+java:S1444"6Make this "public static portMessageInput" field final(Ì¶ØÑ8©í„Š1
+P
+java:S1444"4Make this "public static ipMessageInput" field final(ô™Ú28©í„Š1
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(íŒÕ
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(íŒÕ
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(íŒÕ
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(íŒÕ
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(íŒÕ
+A
+java:S1172""+Remove this unused method parameter "view".(ı  ¼
+Q
+java:S2696$"6Make the enclosing method "static" or remove this set.(êˆ‚êúÿÿÿÿ
+Q
+java:S2696&"6Make the enclosing method "static" or remove this set.(÷á¿…üÿÿÿÿ
+L
+java:S2696("6Make the enclosing method "static" or remove this set.(™Ã¦Ò
+Q
+java:S2696+"6Make the enclosing method "static" or remove this set.(Í½Ñçùÿÿÿÿ
+Q
+java:S2696/"6Make the enclosing method "static" or remove this set.(Í½Ñçùÿÿÿÿ
+X
+java:S26962"6Make the enclosing method "static" or remove this set.(¡™»üÿÿÿÿÿ8½´ÎŠ1
+S
+java:S26963"6Make the enclosing method "static" or remove this set.(Ÿ­ùÌ8¾´ÎŠ1
+X
+java:S26964"6Make the enclosing method "static" or remove this set.(ÈÆ‹†şÿÿÿÿ8¾´ÎŠ1
+O
+java:S18746"9Remove this use of "executeOnExecutor"; it is deprecated.(‰£Ä¦
+G
+java:S18746"1Remove this use of "AsyncTask"; it is deprecated.(‰£Ä¦
+R
+java:S18746"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(‰£Ä¦
+A
+java:S1172:"+Remove this unused method parameter "view".(ÔµÛç
+X
+java:S2696;"6Make the enclosing method "static" or remove this set.(áô˜¨şÿÿÿÿ8Ì´ÎŠ1
+S
+java:S2696="6Make the enclosing method "static" or remove this set.(Ÿ­ùÌ8Ğ´ÎŠ1
+X
+java:S2696>"6Make the enclosing method "static" or remove this set.(ÈÆ‹†şÿÿÿÿ8Ñ´ÎŠ1
+O
+java:S1874C"9Remove this use of "executeOnExecutor"; it is deprecated.(‰£Ä¦
+N
+java:S1874C"1Remove this use of "AsyncTask"; it is deprecated.(‰£Ä¦8Ø´ÎŠ1
+Y
+java:S1874C"<Remove this use of "THREAD_POOL_EXECUTOR"; it is deprecated.(‰£Ä¦8Ù´ÎŠ1
+F
+java:S1172F"+Remove this unused method parameter "view".(äÌ›¡ÿÿÿÿÿ
+o
+java:S5843"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(¿ïµÄıÿÿÿÿ
+q
+java:S5843"TSimplify this regular expression to reduce its complexity from 24 to the 20 allowed.(íŒÕ8ò©í„Š1

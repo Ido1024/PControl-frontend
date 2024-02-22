@@ -1,0 +1,51 @@
+
+~
+java:S1104"\Make msgEditTextInput a static final constant or non-public and provide accessors if needed.(Â»îÒúÿÿÿÿ8À¿ùŒŠ1
+y
+java:S1104"\Make portMessageInput a static final constant or non-public and provide accessors if needed.(–»š¤8Á¿ùŒŠ1
+v
+java:S1104"ZMake ipMessageInput a static final constant or non-public and provide accessors if needed.(ô™Ú28Á¿ùŒŠ1
+X
+java:S1444"6Make this "public static msgEditTextInput" field final(Â»îÒúÿÿÿÿ8Á¿ùŒŠ1
+S
+java:S1444"6Make this "public static portMessageInput" field final(–»š¤8Á¿ùŒŠ1
+P
+java:S1444"4Make this "public static ipMessageInput" field final(ô™Ú28Á¿ùŒŠ1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(­·“á8’ÀùŒŠ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(öîÂ¾ùÿÿÿÿ8’ÀùŒŠ1
+H
+java:S1172"+Remove this unused method parameter "view".(ŞıÎÉ8“ÀùŒŠ1
+X
+java:S2696 "6Make the enclosing method "static" or remove this set.(ºÒĞúÿÿÿÿ8”ÀùŒŠ1
+X
+java:S2696#"6Make the enclosing method "static" or remove this set.(ãÀüËıÿÿÿÿ8ÿªÎŠ1
+S
+java:S2696$"6Make the enclosing method "static" or remove this set.(Ÿ­ùÌ8ÿªÎŠ1
+S
+java:S2696%"6Make the enclosing method "static" or remove this set.(ŒÅ8€«ÎŠ1
+Q
+java:S1874&"/Remove this use of "execute"; it is deprecated.(¶„•¦ıÿÿÿÿ8‹«ÎŠ1
+M
+java:S1172)"+Remove this unused method parameter "view".(–í€ğûÿÿÿÿ8•ÀùŒŠ1
+R
+java:S2696*"6Make the enclosing method "static" or remove this set.(—¥´8«ÎŠ1
+S
+java:S2696+"6Make the enclosing method "static" or remove this set.(Ÿ­ùÌ8«ÎŠ1
+S
+java:S2696,"6Make the enclosing method "static" or remove this set.(ŒÅ8«ÎŠ1
+Q
+java:S1874-"/Remove this use of "execute"; it is deprecated.(¶„•¦ıÿÿÿÿ8«ÎŠ1
+H
+java:S11720"+Remove this unused method parameter "view".(®õô8–ÀùŒŠ1
+X
+java:S26961"6Make the enclosing method "static" or remove this set.(âüíßıÿÿÿÿ8«ÎŠ1
+S
+java:S26962"6Make the enclosing method "static" or remove this set.(Ÿ­ùÌ8‘«ÎŠ1
+S
+java:S26963"6Make the enclosing method "static" or remove this set.(ŒÅ8‘«ÎŠ1
+Q
+java:S18744"/Remove this use of "execute"; it is deprecated.(¶„•¦ıÿÿÿÿ8’«ÎŠ1
+M
+java:S11727"+Remove this unused method parameter "view".(äÌ›¡ÿÿÿÿÿ8–ÀùŒŠ1
